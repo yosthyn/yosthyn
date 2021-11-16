@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EscalaDeNotas</string>
+    <string name="btn_generar">Generar</string>
+    <string name="editTextNumber">Nota Minima</string>
+    <string name="editTextNumber2">Nota Maxima</string>
+    <string name="editTextNumber3">Puntaje Total</string>
+    <string name="editTextNumber4">% Exigencia</string>
+    <string name="btn_retroceder">Retroceder</string>
+    <string name="autoCompleteTextView">Coloca Puntaje</string>
+    <string name="autoCompleteTextView2">Coloca Nota</string>
+    <string name="autoCompleteTextView3">Coloca Nota</string>
+    <string name="autoCompleteTextView4">Coloca Puntaje</string>
+    <string name="autoCompleteTextView5">Coloca Puntaje</string>
+    <string name="autoCompleteTextView6">Coloca Nota</string>
+    <string name="autoCompleteTextView7">Coloca Puntaje</string>
+    <string name="autoCompleteTextView8">Coloca Nota</string>
+    <string name="autoCompleteTextView9_display">Total</string>
+    <string name="autoCompleteTextView10_display">Total</string>
+    <string name="resiclerView">Paginas Existentes</string>
+</resources>
