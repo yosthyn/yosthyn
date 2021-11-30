@@ -17,4 +17,5 @@
     <string name="autoCompleteTextView9_display">Total</string>
     <string name="autoCompleteTextView10_display">Total</string>
     <string name="resiclerView">Paginas Existentes</string>
+    <string name="href">Retroceder</string>
 </resources>

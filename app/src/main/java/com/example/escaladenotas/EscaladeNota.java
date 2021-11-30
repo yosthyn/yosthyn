@@ -7,13 +7,19 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
+import static com.example.escaladenotas.R.id.btn_retroceder;
+
 class EscaladeNotas extends AppCompatActivity {
+
+    private String href;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.escaladenotas_main);
     // Asignacion
+        {int btn_retroceder1 = (btn_retroceder);
+        href = ("EscaladeNotas.java");
         ImageButton btn_retroceder = (ImageButton) this.findViewById(R.id.btn_retroceder);
         TextView getAutoCompleteTextView= (TextView) this.findViewById(R.id.autoCompleteTextView);
         TextView getAutoCompleteTextView2= (TextView) this.findViewById(R.id.autoCompleteTextView2);
@@ -27,5 +33,9 @@ class EscaladeNotas extends AppCompatActivity {
         TextView getAutoCompleteTextView10= (TextView) this.findViewById(R.id.autoCompleteTextView10_display);
         TextView autoCompleteTextView9_display = (TextView) this.findViewById(R.id.autoCompleteTextView9_display);
         TextView autoCompleteTextView10_display = (TextView) this.findViewById(R.id.autoCompleteTextView10_display);
+      }
     }
+
 }
+
+

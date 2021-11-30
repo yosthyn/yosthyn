@@ -38,10 +38,10 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="181dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="21dp"
+        android:layout_width="129dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="20dp"
         android:text="Puntaje"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,10 +49,10 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="158dp"
-        android:layout_height="48dp"
-        android:layout_marginTop="21dp"
-        android:layout_marginEnd="16dp"
+        android:layout_width="89dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="64dp"
         android:text="Nota"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintEnd_toEndOf="parent"
